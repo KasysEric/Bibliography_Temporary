@@ -1,0 +1,69 @@
+31. Glasser, N. F., Harrison, S., Jansson, K. N., Anderson, K. & Cowley, A. Global
+sea-level contribution from the Patagonian Icefields since the Little Ice Age
+maximum. Nature Geosci. 4, 303–307 (2011).
+32. Carrivick, J. L., Davies, B. J., Glasser, N. F., Nývlt, D. & Hambrey, M. J.
+Late-Holocene changes in character and behaviour of land-terminating
+glaciers on James Ross Island, Antarctica. J. Glaciol. 58, 1176–1190 (2012).
+33. Cuffey, K. M. & Paterson, W. S. B. The Physics of Glaciers (Elsevier, 2010).
+34. Rignot, E. & Mouginot, J. Ice flow in Greenland for the International Polar Year
+2008–2009. Geophys. Res. Lett. 39, L11501 (2012).
+35. Krabill, W. B. IceBridge ATM L2 Icessn Elevation, Slope, and Roughness,
+[2003-2010] data set http://nsidc.org/data/blatm2 (National Snow and Ice
+Data Center, 2014).
+36. Zwally, H. J. et al. GLAS/ICESat L2 Antarctic and Greenland Ice Sheet Altimetry
+Data V031 data set https://nsidc.org/data/icesat/data.html (National Snow
+and Ice Data Center, 2011).
+37. National Snow and Ice Data Center. ICESat: Description of Data Releases data
+set http://nsidc.org/data/icesat/data_releases.html (2011).
+38. Howat, I. M., Smith, B. E., Joughin, I. R. & Scambos, T. A. Rates of southeast
+Greenland ice volume loss from combined ICESat and ASTER observations.
+Geophys. Res. Lett. 35, L17505 (2008).
+39. Pritchard, H. D., Arthern, R. J., Vaughan, D. G. & Edwards, L. A. Extensive
+dynamic thinning on the margins of the Greenland and Antarctic ice sheets.
+Nature 461, 971–975 (2009).
+40. Blair, B. & Hofton, M. IceBridge LVIS L2 Geolocated Ground Elevation and Return
+Energy Quartiles, [2010] data set. http://nsidc.org/data/ilvis2.html (National
+Snow and Ice Data Center, 2010).
+41. Ewert, H., Groh, A. & Dietrich, R. Volume and mass changes of the Greenland
+ice sheet inferred from ICESat and GRACE. J. Geodyn. 59-60, 111–123 (2012).
+42. Kjeldsen, K. K. et al. Improved ice loss estimate of the northwestern Greenland
+ice sheet. J. Geophys. Res. Solid Earth 118, 698–708 (2013).
+43. Smith, B. E., Fricker, H. A., Joughin, I. R. & Tulaczyk, S. An inventory of active
+subglacial lakes in Antarctica detected by ICESat (2003–2008). J. Glaciol. 55,
+573–595 (2009).
+44. Rignot, E. & Kanagaratnam, P. Changes in the velocity structure of the
+Greenland Ice Sheet. Science 311, 986–990 (2006).
+45. Arendt, A. et al. Randolph Glacier Inventory—A Dataset of Global Glacier Outlines
+Version 3.2, http://www.glims.org/RGI/ (Global Land Ice Measurements from
+Space, 2013).
+46. Danish Geodata Agency. Ground control for 1:150,000 scale aerials, Greenland
+http://gst.dk/emner/landkort-topografi/groenland/ground-control-greenland/
+(GST, 2013).
+47. Nuth, C. & Kääb, A. Co-registration and bias corrections of satellite elevation
+data sets for quantifying glacier thickness change. Cryosphere 5, 271–290
+(2011).
+48. Kääb, A. Remote Sensing of Mountain Glaciers and Permafrost Creep. Schriftenreihe
+Physische Geographie (Univ. Zürich, Department of Geography, 2005).
+49. Wang, W., Li, J. & Zwally, H. J. Dynamic inland propagation of thinning due
+to ice loss at the margins of the Greenland ice sheet. J. Glaciol. 58,
+734–740 (2012).
+50. Krabill, W. B. et al. Greenland Ice Sheet: increased coastal thinning. Geophys.
+Res. Lett. 31, L24402 (2004).
+51. Sasgen, I. et al. Timing and origin of recent regional ice-mass loss in Greenland.
+Earth Planet. Sci. Lett. 333–334, 293–303 (2012).
+52. Hurkmans, R. T. W. L. et al. Time-evolving mass loss of the Greenland Ice Sheet
+from satellite altimetry. Cryosphere 8, 1725–1740 (2014).
+53. Lecavalier, B. S. et al. Revised estimates of Greenland ice sheet thinning
+histories based on ice-core records Greenland. Quat. Sci. Rev. 63, 73–82
+(2013).
+54. Pfeffer, W. T., Meier, M. F. & Illangasekare, T. H. Retention of Greenland runoff by
+refreezing: implications for projected future sea level change. J. Geophys. Res.
+96, 22117–22124 (1991).
+55. Box, J. E. et al. Greenland ice sheet mass balance reconstruction. Part I: Net
+snow accumulation (1600-2009). J. Clim. 26, 3919–3934 (2013).
+56. Andersen, M. L. et al. Basin-scale partitioning of Greenland ice sheet mass
+balance components (2007–2011). Earth Planet. Sci. Lett. 409, 89–95 (2015).
+57. Weidick, A. Historical fluctuations of calving glaciers in South and West
+Greenland. Rapp. Grønlands Geol. Unders. 161, 73–79 (1994).
+58. Weidick, B. A. Neoglacial glaciations around Hans Tausen Iskappe, Peary Land,
+North Greenland. Medd. Gronl. Geosci. 39, 5–26 (2001).
